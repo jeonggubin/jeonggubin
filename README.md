@@ -6,9 +6,9 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)
 
 ### Who Am I
-* 🌱 I'm currently learning 
+* 🌱 I'm currently learning Firmware Development & Bare-metal Programming
 * 🎓 I majored in Embedded System Engineering
-* 🏠 My hometown is 
+* 🏠 My hometown is Seoul, Korea
 
 ### Experience
 * 🏫 한국공학대학교 전자공학부 임베디드시스템학과 (2022.03 ~ 2026.08)
