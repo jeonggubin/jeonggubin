@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/>
   </p>
   <br>
+
 </div>
 
 <div align="center">
@@ -62,4 +63,11 @@
     </tr>
   </table>
 </div>
-  
+
+<div align="center">
+  <br>
+  <a href="https://programmers.co.kr/">
+    <img src="https://mazassumnida.vercel.app/api/generate_badge?name=정구빈&service=programmers" />
+  </a>
+  <br>
+</div>
