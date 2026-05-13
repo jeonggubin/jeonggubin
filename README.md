@@ -14,7 +14,7 @@
 * 🏫 한국공학대학교 전자공학부 임베디드시스템학과 (2022.03 ~ 2026.08)
 * 📖 [Intel] 엣지 AI SW 아카데미 9기 (2025.12 ~ 2026.07)
 * 📄 한국정보처리학회 ACK 2025 학술대회 (2025.11)
-   - "해상 선박 선체 검사/측정용 AI 자동화 로봇 구현"
+   - "해상 선박 선체 검사/측정용 AI 자동화 로봇 구현(KIPS_C2025B0182F)"
 <div align="center">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=✨%20Tech%20Stack%20✨&height=60&fontSize=30&fontBold=false" />
