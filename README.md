@@ -76,16 +76,3 @@
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeonggubin&show_icons=true&theme=dark&hide_border=true" height="185" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeonggubin&layout=compact&theme=dark&hide_border=true" height="185" />
-  
-  <br><br>
-
-  <a href="https://programmers.co.kr/">
-    <img src="https://img.shields.io/badge/Programmers-정구빈-003866?style=flat-square&logo=Programmers&logoColor=white"/>
-  </a>
-  <br>
-</div>
