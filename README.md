@@ -73,22 +73,13 @@
 
 <div align="center">
   <br>
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jeonggubin&show_icons=true&theme=dark" height="170" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonggubin&layout=compact&theme=dark" height="170" />
-      </td>
-    </tr>
-  </table>
-</div>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeonggubin&show_icons=true&theme=dark&hide_border=true" height="185" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeonggubin&layout=compact&theme=dark&hide_border=true" height="185" />
+  
+  <br><br>
 
-<div align="center">
-  <br>
   <a href="https://programmers.co.kr/">
-    <img src="https://mazassumnida.vercel.app/api/generate_badge?name=정구빈&service=programmers" />
+    <img src="https://img.shields.io/badge/Programmers-정구빈-003866?style=flat-square&logo=Programmers&logoColor=white"/>
   </a>
   <br>
 </div>
