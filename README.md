@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="1024" height="167" alt="Welcome-to-Gubin-s-Github-2026-5-13-" src="https://github.com/user-attachments/assets/34e7b34a-f792-4c46-b3c7-4bb419830c44" />
-" />
+  <img src="https://github.com/user-attachments/assets/447934df-4644-4eff-b693-9fd84d561638" width="100%" alt="Welcome-to-Gubin-s-Github" />
 </p>
 
 [![Visit](https://img.shields.io/badge/VISIT-6/430-orange)](#)
