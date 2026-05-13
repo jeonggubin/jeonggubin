@@ -48,4 +48,18 @@
   </p>
   <br>
 </div>
+
+<div align="center">
+  <br>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=jeonggubin&show_icons=true&theme=dark&hide_border=false" height="170" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonggubin&layout=compact&theme=dark" height="170" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
   
