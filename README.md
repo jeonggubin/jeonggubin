@@ -2,7 +2,6 @@
 
 [![Visit](https://img.shields.io/badge/VISIT-6/430-orange)](#)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)
 
 ### Who Am I
 * 🌱 I'm currently learning 
