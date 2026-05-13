@@ -12,19 +12,3 @@
 ### Experience
 * 🏫 한국공학대학교 전자공학부 임베디드시스템학과 (2022.03 ~ 2026.08)
 * 💻 [Intel] 엣지 AI SW 아카데미 9 (2025.12 ~ 2026.07)
-
-* <table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3>What I Like</h3>
-      <ul>
-        <li>🤖 Robotics</li>
-        <li>🚗 Autonomous Driving</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://mazassumnida.vercel.app/api/v2/generate_badge?handle=본인ID" /><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=goobin77@naver.com&show_icons=true" />
-    </td>
-  </tr>
-</table>
