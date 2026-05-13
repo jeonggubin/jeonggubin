@@ -2,8 +2,14 @@
   <img src="https://github.com/user-attachments/assets/519840c9-743c-4b6d-9f12-c6417e033ada" width="100%" alt="Welcome-to-Gubin-s-Github" />
 </p>
 
-[![Visit](https://img.shields.io/badge/VISIT-6/430-orange)](#)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)
+<div align="left">
+  <a href="mailto:goobin007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:goobin77@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+  </a>
+</div>
 
 ### Who Am I
 * 🌱 I'm currently learning Firmware Development & Bare-metal Programming
