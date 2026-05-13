@@ -51,6 +51,26 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=🚀%20Projects%20🚀&height=60&fontSize=30&fontBold=false" />
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="350">
+        <b>🚧 SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇</b><br>
+        <a href="https://github.com/sanghyeon-222/site_inspection_robot">🔗 Repository</a><br>
+        <sub>안전장비 미착용 감지 및 자율 주행</sub>
+      </td>
+      <td align="center" width="350">
+        <b>🌐 AMR FLEET CORE</b><br>
+        <a href="https://github.com/Intel-Edge-9s/AGV_Fleet_Core">🔗 Repository</a><br>
+        <sub>지능형 군집 주행 알고리즘을 통한 다중 로봇 통합 경로 최적화 및 이력 관리</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   <br>
   <table border="0">
     <tr>
