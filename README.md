@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFB6C1&text=GuBin's%20GitHub&height=150&fontSize=60" />
+  <img src="<img width="1024" height="167" alt="Welcome-to-Gubin-s-Github-2026-5-13-" src="https://github.com/user-attachments/assets/34e7b34a-f792-4c46-b3c7-4bb419830c44" />
+" />
 </p>
 
 [![Visit](https://img.shields.io/badge/VISIT-6/430-orange)](#)
