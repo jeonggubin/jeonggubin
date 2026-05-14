@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>
     <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
     <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=PyTorch&logoColor=black"/>
     <img src="https://img.shields.io/badge/SLAM-FFB6C1?style=flat-square"/>
   </p>
