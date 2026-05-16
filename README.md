@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/519840c9-743c-4b6d-9f12-c6417e033ada" width="100%" alt="Welcome-to-Gubin-s-Github" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/98078d01-a011-4440-a792-00c060bb8409" width="100%" alt="Welcome-to-Gubin-s-Github" />
+</div>
 
 <div align="left">
   <a href="mailto:goobin007@gmail.com">
