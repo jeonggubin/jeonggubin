@@ -72,7 +72,7 @@
       <td align="center" width="350">
         <b>🌐 AMR FLEET CORE</b><br>
         <a href="https://github.com/Intel-Edge-9s/AGV_Fleet_Core">🔗 Repository</a><br>
-        <sub>군집 주행 알고리즘을 통한 다중 로봇 통합 경로 최적화 및 이력 관리</sub>
+        <sub>군집 주행 알고리즘을 통한 다중 로봇 통합 관제 시스템</sub>
       </td>
     </tr>
   </table>
