@@ -12,7 +12,7 @@
 </div>
 
 ### Who Am I
-* 🌱 I'm currently learning Firmware Development & Bare-metal Programming
+* 🌱 I'm currently learning Firmware Development & Edge AI
 * 🎓 I majored in Embedded System Engineering
 * 🏠 My hometown is Seoul, Korea
 
