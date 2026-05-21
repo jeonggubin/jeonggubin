@@ -70,7 +70,7 @@
         <sub>안전장비 미착용 감지 및 자율 주행</sub>
       </td>
       <td align="center" width="350">
-        <b>🌐 AMR FLEET CORE</b><br>
+        <b>🌐 AGV FLEET CORE</b><br>
         <a href="https://github.com/Intel-Edge-9s/AGV_Fleet_Core">🔗 Repository</a><br>
         <sub>군집 주행 알고리즘을 통한 다중 로봇 통합 관제 시스템</sub>
       </td>
