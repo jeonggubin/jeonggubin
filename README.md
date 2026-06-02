@@ -69,7 +69,7 @@
     <tr>
       <td align="center" width="350">
         <b>🚧 SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇</b><br>
-        <a href="https://github.com/sanghyeon-222/site_inspection_robot">🔗 Repository</a><br>
+        <a href="https://github.com/jeonggubin/Industrial-Patrol-Robot-based-on-SLAM-and-CAN-Network">🔗 Repository</a><br>
         <sub>안전장비 미착용 감지 및 자율 주행</sub>
       </td>
       <td align="center" width="350">
