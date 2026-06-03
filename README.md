@@ -20,9 +20,9 @@
 * 🏫 한국공학대학교 전자공학부 임베디드시스템학과 (2022.03 ~ 2026.08)
 * 📖 [Intel] 엣지 AI SW 아카데미 9기 (2025.12 ~ 2026.07)
 * 📄 한국정보처리학회 ACK 2025 학술대회 논문 게재 및 발표 (2025.11)
-   - ["해상 선박 선체 검사/측정용 AI 자동화 로봇 구현" (논문번호: KIPS_C2025B0182F)](./KIPS_C2025B0182F_1.pdf)
+   - ["해상 선박 선체 검사/측정용 AI 자동화 로봇 구현" (논문번호: KIPS_C2025B0182F)](./KIPS_C2025B0182F.pdf)
   
-  [![PDF Download](https://img.shields.io/badge/Paper-Download_PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./KIPS_C2025B0182F_1.pdf)
+  [![PDF Download](https://img.shields.io/badge/Paper-Download_PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./KIPS_C2025B0182F.pdf)
      
 <div align="center">
   <br>
