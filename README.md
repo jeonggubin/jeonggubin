@@ -33,21 +33,6 @@
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=⚙️%20Tools%20⚙️&height=60&fontSize=30&fontBold=false" />
-  <br>
-
-  <p align="center" style="white-space: nowrap;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/>
-  </p>
-  <br>
-
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=🚀%20Projects%20🚀&height=60&fontSize=30&fontBold=false" />
   <br>
 
