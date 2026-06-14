@@ -10,10 +10,9 @@
   
   [![PDF Download](https://img.shields.io/badge/Paper-Download_PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./KIPS_C2025B0182F.pdf)
      
-<div align="center">
-  <br>
+<div style="text-align: left;">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=✨%20Tech%20Stack%20✨&height=60&fontSize=30&fontBold=false" />
-  <br>
+</div>
 
   <p align="center" style="white-space: nowrap;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -26,7 +25,7 @@
     <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
     <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
-    <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=PyTorch&logoColor=black"/>
+    <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=PyTorch&logoColor=black"/>
     <img src="https://img.shields.io/badge/SLAM-FFB6C1?style=flat-square"/>
   </p>
   <br>
