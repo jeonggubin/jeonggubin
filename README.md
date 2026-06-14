@@ -2,20 +2,6 @@
   <img src="https://github.com/user-attachments/assets/98078d01-a011-4440-a792-00c060bb8409" width="100%" alt="Welcome-to-Gubin-s-Github" />
 </div>
 
-<div align="left">
-  <a href="mailto:goobin007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="mailto:goobin77@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  </a>
-</div>
-
-### Who Am I
-* 🌱 I'm currently learning Firmware Development & Edge AI
-* 🎓 I majored in Embedded System Engineering
-* 🏠 My hometown is Seoul, Korea
-
 ### Experience
 * 🏫 한국공학대학교 전자공학부 임베디드시스템학과 (2022.03 ~ 2026.08)
 * 📖 [Intel] 엣지 AI SW 아카데미 9기 (2025.12 ~ 2026.07)
