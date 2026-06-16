@@ -35,6 +35,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=🚀%20Projects%20🚀&height=60&fontSize=30&fontBold=false" />
   <br>
 
+  <div align="center">
   <table>
     <tr>
       <td align="center" width="350">
@@ -46,6 +47,11 @@
         <b>🌐 AMR FLEET CORE</b><br>
         <a href="https://github.com/jeonggubin/AMR_Fleet_Core">🔗 Repository</a><br>
         <sub>군집 주행 알고리즘을 통한 다중 로봇 통합 관제 시스템</sub>
+      </td>
+      <td align="center" width="350">
+        <b>🍫 맞춤형 제품 품질 분석 서비스</b><br>
+        <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service">🔗 Repository</a><br>
+        <sub>비전 AI 불량 검출과 ML 센서 분석 기반의 RAG 챗봇 연계 및 사용자 맞춤형 데이터 확장 기능을 갖춘 지능형 스마트 팩토리 플랫폼</sub>
       </td>
     </tr>
   </table>
