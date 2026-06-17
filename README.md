@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Projects
+### 📁 Projects
 
 * **[🚧 SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇](https://github.com/jeonggubin/Industrial-Patrol-Robot-based-on-SLAM-and-CAN-Network)**
   - `Tech Stack` C/Python/JavaScript, ROS2, YOLOv5nu, CAN, RTSP, UDP, Socket.IO
