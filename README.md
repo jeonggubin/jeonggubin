@@ -33,17 +33,20 @@
 ### 🚀 Projects
 
 * **[🚧 SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇](https://github.com/jeonggubin/Industrial-Patrol-Robot-based-on-SLAM-and-CAN-Network)**
+  - `Tech Stack` C/Python/JavaScript, ROS2, YOLOv5nu, CAN, RTSP, UDP, Socket.IO
   - 안전장비 미착용 감지 및 자율 주행
 
 <br>
 
 * **[🌐 AMR FLEET CORE](https://github.com/jeonggubin/AMR_Fleet_Core)**
+  - `Tech Stack` C++/Python/Arduino(Sketch), ROS2, Wi-Fi, Serial(UART), Qt 6, MariaDB
   - 군집 주행 알고리즘을 통한 다중 로봇 통합 관제 시스템
 
 <br>
 
 * **[🍫 맞춤형 제품 품질 분석 서비스](https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service)**
-  - 비전 AI 불량 검출과 ML 센서 분석 기반의 RAG 챗봇 연계 및 사용자 맞춤형 데이터 확장 기능을 갖춘 지능형 스마트 팩토리 플랫폼
+    - `Tech Stack` C/Python, YOLOv5nu, YOLOv8n, YOLO11n, PyTorch, OpenCV, Scikit-learn, Streamlit, MariaDB, Serial(UART), Wi-Fi
+    - 비전 AI 불량 검출과 ML 센서 분석 기반의 RAG 챗봇 연계 및 사용자 맞춤형 데이터 확장 기능을 갖춘 지능형 스마트 팩토리 플랫폼
 
 ---
 
