@@ -2,6 +2,12 @@
   <img src="https://github.com/user-attachments/assets/98078d01-a011-4440-a792-00c060bb8409" width="100%" alt="Welcome-to-Gubin-s-Github" />
 </div>
 
+## 👋 Introduction
+**안녕하세요! 임베디드 시스템을 전공하고 있는 정구빈입니다.**  
+하드웨어 제어부터 ROS2 기반의 자율주행, 엣지 AI 모델 최적화까지 소프트웨어와 하드웨어가 융합된 모빌리티 시스템 구축을 목표로 달리고 있습니다.
+
+---
+
 ### Experience
 * 🏫 한국공학대학교 전자공학부 임베디드시스템학과 (2022.03 ~ 2026.08)
 * 📖 [Intel] 엣지 AI SW 아카데미 9기 (2025.12 ~ 2026.07)
