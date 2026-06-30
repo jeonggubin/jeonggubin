@@ -53,6 +53,12 @@
 * **[🍫 맞춤형 제품 품질 분석 서비스](https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service)**
     - `Tech Stack` C/Python, PyTorch, OpenCV, Scikit-learn, Streamlit, MariaDB, Serial(UART)
     - 비전 AI 불량 검출과 ML 센서 분석 기반의 RAG 챗봇 연계 및 사용자 맞춤형 데이터 확장 기능을 갖춘 지능형 스마트 팩토리 플랫폼
+ 
+<br>
+
+* **[⚙️ SG90 Servo Motor Device Driver](https://github.com/jeonggubin/SG90-servomotor-device-driver)**
+  - `Tech Stack` C, Linux Kernel, PWM
+  - 리눅스 커널 환경에서 커스텀 디바이스 드라이버를 활용한 SG90 서보모터 PWM 제어 시스템 구조 설계 및 구현
 
 ---
 
