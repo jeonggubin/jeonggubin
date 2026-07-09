@@ -38,6 +38,12 @@
 
 ### 📁 Projects
 
+* **[🚢 해상 선박 선체 검사/측정용 AI 자동화 로봇](https://github.com/hjhhch416/spiderman)**
+  - `Tech Stack` Python, ROS2, YOLOv5n, OpenCV, LiDAR(CygLiDAR D2), IMU, SLAM
+  - 3D LiDAR SLAM 기반의 선체 표면 스캔 자율 주행 및 YOLO를 활용한 선체 결함(부식, 손상) 실시간 감지 및 측정
+ 
+<br>
+
 * **[🚧 SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇](https://github.com/jeonggubin/Industrial-Patrol-Robot-based-on-SLAM-and-CAN-Network)**
   - `Tech Stack` C/Python/JavaScript, ROS2, YOLOv5nu, CAN, RTSP, UDP, Socket.IO
   - 안전장비 미착용 감지 및 자율 주행
