@@ -38,7 +38,7 @@
 
 ### 📁 Projects
 
-* **[🚢 해상 선박 선체 검사/측정용 AI 자동화 로봇](https://github.com/hjhhch416/spiderman)**
+* **[🚢 해상 선박 선체 검사/측정용 AI 자동화 로봇](https://github.com/hjhhch416/spiderman)** `🏅 Intel Edge AI SW Academy 최종프로젝트 경진대회 – 최우수상`
   - `Tech Stack` Python, ROS2, YOLOv5n, OpenCV, LiDAR(CygLiDAR D2), IMU, SLAM
   - 3D LiDAR SLAM 기반의 선체 표면 스캔 자율 주행 및 YOLO를 활용한 선체 결함(부식, 손상) 실시간 감지 및 측정
  
