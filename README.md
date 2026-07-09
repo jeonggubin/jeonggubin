@@ -41,25 +41,25 @@
 ### 📁 Projects
 
 * **[🚢 해상 선박 선체 검사/측정용 AI 자동화 로봇](https://github.com/hjhhch416/spiderman)** `🏅 Intel Edge AI SW Academy 최종프로젝트 경진대회 – 최우수상`
-  - `Tech Stack` Python, ROS2, YOLOv5n, OpenCV, LiDAR(CygLiDAR D2), IMU, SLAM, MQTT
+  - `Tech Stack` Python, C++, JavaScript, React, Three.js, MQTT, ROS2, YOLOv5n, OpenCV, LiDAR(CygLiDAR D2), IMU, SLAM
   - 3D LiDAR SLAM 기반의 선체 표면 스캔 자율 주행 및 YOLO를 활용한 선체 결함(부식, 손상) 실시간 감지 및 측정
  
 <br>
 
 * **[🚧 SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇](https://github.com/jeonggubin/Industrial-Patrol-Robot-based-on-SLAM-and-CAN-Network)**
-  - `Tech Stack` C/Python/JavaScript, ROS2, YOLOv5nu, CAN, RTSP, UDP, Socket.IO
+  - `Tech Stack` C, Python, JavaScript, ROS2, YOLOv5nu, CAN, RTSP, UDP, Socket.IO
   - 안전장비 미착용 감지 및 자율 주행
 
 <br>
 
 * **[🌐 AMR FLEET CORE](https://github.com/jeonggubin/AMR_Fleet_Core)**
-  - `Tech Stack` C++/Python/Arduino(Sketch), ROS2, Serial(UART), Qt 6, MariaDB
+  - `Tech Stack` C++, Python, Arduino(Sketch), ROS2, Serial(UART), Qt 6, MariaDB
   - 군집 주행 알고리즘을 통한 다중 로봇 통합 관제 시스템
 
 <br>
 
 * **[🍫 맞춤형 제품 품질 분석 서비스](https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service)**
-    - `Tech Stack` C/Python, PyTorch, OpenCV, Scikit-learn, Streamlit, MariaDB, Serial(UART)
+    - `Tech Stack` C, Python, PyTorch, OpenCV, Scikit-learn, Streamlit, MariaDB, Serial(UART)
     - 비전 AI 불량 검출과 ML 센서 분석 기반의 RAG 챗봇 연계 및 사용자 맞춤형 데이터 확장 기능을 갖춘 지능형 스마트 팩토리 플랫폼
  
 <br>
