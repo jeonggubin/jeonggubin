@@ -48,7 +48,7 @@
 
 * **[🚧 SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇](https://github.com/jeonggubin/Industrial-Patrol-Robot-based-on-SLAM-and-CAN-Network)**
   - `Tech Stack` C, Python, JavaScript, ROS2, YOLOv5nu, CAN, RTSP, UDP, Socket.IO
-  - 안전장비 미착용 감지 및 자율 주행
+  - STM32 분산 제어 및 CAN 프로토콜 기반의 안전 정지 지원 자율 순찰 로봇 시스템
 
 <br>
 
