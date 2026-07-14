@@ -72,4 +72,3 @@
 
 ### 📞 Contact
 * 📧 **Naver :** goobin77@naver.com
-* 📧 **Gmail :** goobin007@gmail.com
