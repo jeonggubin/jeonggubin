@@ -40,6 +40,8 @@
 
 ### 📁 Projects
 
+#### 🚀 Major Projects (주요 프로젝트)
+
 * **[🚧 SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇](https://github.com/jeonggubin/Industrial-Patrol-Robot-based-on-SLAM-and-CAN-Network)**
   - `Tech Stack` C, Python, JavaScript, ROS2, YOLOv5nu, CAN, RTSP, UDP, Socket.IO
   - STM32 분산 제어 및 CAN 프로토콜 기반의 안전 정지 지원 자율 순찰 로봇 시스템
@@ -62,13 +64,15 @@
   - `Tech Stack` Python, C++, JavaScript, React, Three.js, MQTT, ROS2, YOLOv5n, OpenCV, SLAM
   - 3D LiDAR SLAM 기반의 선체 표면 스캔 자율 주행 및 YOLO를 활용한 선체 결함(부식, 손상) 실시간 감지 및 측정
  
-<br>
+---
+
+#### 🛠️ Mini Projects (미니 프로젝트)
 
 * **[⚙️ SG90 Servo Motor Device Driver](https://github.com/jeonggubin/SG90-servomotor-device-driver)**
   - `Tech Stack` C, Linux Kernel, PWM
   - 리눅스 커널 환경에서 커스텀 디바이스 드라이버를 활용한 SG90 서보모터 PWM 제어 시스템 구조 설계 및 구현
 
----
+
 
 ### 📞 Contact
 * 📧 **Naver :** goobin77@naver.com
