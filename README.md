@@ -52,12 +52,12 @@
 <br>
 
 * **[🍫 맞춤형 제품 품질 분석 서비스](https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service)**
-    - 비전 AI 불량 검출과 ML 센서 분석 기반의 RAG 챗봇 연계 및 사용자 맞춤형 데이터 확장 기능을 갖춘 지능형 스마트 팩토리 플랫폼
+    - 비전 AI 불량 검출과 센서 분석 기반의 RAG 챗봇 연계 및 사용자 맞춤형 데이터 확장 기능을 갖춘 지능형 스마트 팩토리 플랫폼
  
 <br>
 
-* **[🚢 해상 선박 선체 검사/측정용 AI 자동화 로봇 구현](https://github.com/jeonggubin/Implementation-of-an-AI-Powered-Autonomous-Robot-for-Ship-Hull-Inspection-and-Measurement)** `🏅 Intel Edge AI SW Academy 최종프로젝트 경진대회 – 최우수상`
-  - 3D LiDAR SLAM 기반의 선체 표면 스캔 자율 주행 및 YOLO를 활용한 선체 결함(부식, 손상) 실시간 감지 및 측정
+* **[🚢 해상 선박 선체 검사/측정용 AI 자동화 로봇 구현](https://github.com/jeonggubin/Implementation-of-an-AI-Powered-Autonomous-Robot-for-Ship-Hull-Inspection-and-Measurement)**
+  - 3D LiDAR SLAM 기반의 선체 표면 스캔 자율 주행 및 YOLO를 활용한 선체 결함 실시간 감지
  
 ---
 
